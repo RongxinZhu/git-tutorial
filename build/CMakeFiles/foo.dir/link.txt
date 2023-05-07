@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/foo.dir/src/challengII.c.o -o /home/rtos/git-tutorial/bin/foo  libESPL_LIB.a 
